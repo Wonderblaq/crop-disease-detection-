@@ -44,6 +44,13 @@ Sarfo Wonder Nana
 Hackathon 2025
 University of Energy and Natural Resources (UENR), Ghana
 
+how to run fast api to generate endpoint :
+Run------>
+"Uvicorn main:app --reload " in main.py(fast api)
+terminal to generate endpoint and test with 
+postman
+
+
 
 
 
